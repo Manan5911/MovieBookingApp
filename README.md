@@ -1473,9 +1473,7 @@ public class EmployeeConfig {
  
 Step 5: Run Your Both Address and Employee Microservices
 
-Now run your both Address and Employee Microservices. If everything goes well then you may see the following screen in your console. Please refer to the below image.
-
-
+Now run your both Address and Employee Microservices. If everything goes well then you may see the following screen in your console. 
 
  
 
@@ -1497,7 +1495,6 @@ And you can see the following response
         "state": "Odisha"
     }
 }
-Please refer to the below image.
 
 
 
