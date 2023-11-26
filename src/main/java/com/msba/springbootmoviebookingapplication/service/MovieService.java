@@ -8,7 +8,6 @@ public interface MovieService {
     MovieDto createMovie(MovieDto movieDto);
     List<MovieDto> getAllMovies();
     MovieDto getMovieById(long id);
-    MovieDto updateMovie(MovieDto movieDto, long id);
     void deleteMovieById(long id);
     MovieDto findByMovieName(String movieName);
 }
